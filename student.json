@@ -1,4 +1,5 @@
-{
+[
+	{
 	  "RollNo": "2211CS010181",
 	  "EmailID": "2211CS010181@mallareddyuniversity.ac.in",
 	  "Name": "Varalaxmi Ganta"
@@ -463,18 +464,4 @@
 	  "EmailID": "2211CS010712@mallareddyuniversity.ac.in",
 	  "Name": "SRIKANTH KONDAPALLI"
 	},
-	{
-	  "RollNo": "2211CS010713",
-	  "EmailID": "2211CS010713@mallareddyuniversity.ac.in",
-	  "Name": "Sai Dinesh Reddy Kondareddy"
-	},
-	{
-	  "RollNo": "2211CS010716",
-	  "EmailID": "2211CS010716@mallareddyuniversity.ac.in",
-	  "Name": "PRASANTH KOSURI"
-	},
-	{
-	  "RollNo": "2211CS010717",
-	  "EmailID": "2211CS010717@mallareddyuniversity.ac.in",
-	  "Name": "RITESH KUMAR SINGH"
-	},
+]
